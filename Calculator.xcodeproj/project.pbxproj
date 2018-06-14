@@ -10,9 +10,9 @@
 		F2217DE720D28E2500345CD2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2217DE620D28E2500345CD2 /* AppDelegate.swift */; };
 		F2217DE920D28E2500345CD2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2217DE820D28E2500345CD2 /* ViewController.swift */; };
 		F2217DEC20D28E2500345CD2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F2217DEA20D28E2500345CD2 /* Main.storyboard */; };
-		F2217DEE20D28E2900345CD2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F2217DED20D28E2900345CD2 /* Assets.xcassets */; };
 		F2217DF120D28E2900345CD2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F2217DEF20D28E2900345CD2 /* LaunchScreen.storyboard */; };
 		F2217DFC20D28E2A00345CD2 /* CalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2217DFB20D28E2A00345CD2 /* CalculatorTests.swift */; };
+		F2D28E4620D2D74E00D87944 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F2D28E4520D2D74E00D87944 /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -30,12 +30,12 @@
 		F2217DE620D28E2500345CD2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F2217DE820D28E2500345CD2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		F2217DEB20D28E2500345CD2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		F2217DED20D28E2900345CD2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F2217DF020D28E2900345CD2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F2217DF220D28E2900345CD2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F2217DF720D28E2A00345CD2 /* CalculatorTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CalculatorTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F2217DFB20D28E2A00345CD2 /* CalculatorTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorTests.swift; sourceTree = "<group>"; };
 		F2217DFD20D28E2A00345CD2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F2D28E4520D2D74E00D87944 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,7 +80,7 @@
 				F2217DE620D28E2500345CD2 /* AppDelegate.swift */,
 				F2217DE820D28E2500345CD2 /* ViewController.swift */,
 				F2217DEA20D28E2500345CD2 /* Main.storyboard */,
-				F2217DED20D28E2900345CD2 /* Assets.xcassets */,
+				F2D28E4520D2D74E00D87944 /* Assets.xcassets */,
 				F2217DEF20D28E2900345CD2 /* LaunchScreen.storyboard */,
 				F2217DF220D28E2900345CD2 /* Info.plist */,
 			);
@@ -178,7 +178,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F2217DF120D28E2900345CD2 /* LaunchScreen.storyboard in Resources */,
-				F2217DEE20D28E2900345CD2 /* Assets.xcassets in Resources */,
+				F2D28E4620D2D74E00D87944 /* Assets.xcassets in Resources */,
 				F2217DEC20D28E2500345CD2 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
